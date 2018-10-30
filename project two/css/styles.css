@@ -1,0 +1,37 @@
+header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-image: url(https://picsum.photos/300/300/?random);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+
+div {
+    background-image: url(https://picsum.photos/300/300/?random);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    width: 300px;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    
+}
+
+section {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    width: 70%;
+    margin-top: 1%;
+}
+
+footer {
+    height: 200px;
+    width: cover;
+    background-color: grey;
+
+}
