@@ -1,6 +1,5 @@
 header {
     display: flex;
-    flex-direction: row;
     align-items: center;
     background-image: url(https://picsum.photos/300/300/?random);
     background-repeat: no-repeat;
@@ -23,7 +22,7 @@ div {
 
 section {
     display: flex;
-    flex-flow: row wrap;
+    flex-wrap: wrap;
     justify-content: space-around;
     width: 70%;
     margin-top: 1%;
