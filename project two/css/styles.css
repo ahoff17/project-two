@@ -7,6 +7,10 @@ header {
     height: 400px;
 }
 
+p {
+    align-content: center;
+}
+
 div {
     background-image: url(https://picsum.photos/300/300/?random);
     background-repeat: no-repeat;
@@ -16,8 +20,7 @@ div {
     justify-content: space-around;
     align-items: center;
     margin-bottom: 20px;
-    margin-left: 20px;
-    
+    margin-left: 20px;  
 }
 
 section {
