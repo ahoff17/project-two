@@ -11,6 +11,10 @@ img {
     padding: 25px;
 }
 
+#twitter {
+    background-color: darkgrey;
+}
+
 p {
     text-align: center;
 }
