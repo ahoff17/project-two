@@ -7,6 +7,10 @@ header {
     height: 400px;
 }
 
+img {
+    padding: 5px;
+}
+
 p {
     align-content: center;
 }
