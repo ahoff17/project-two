@@ -1,4 +1,6 @@
-
+body {
+    background-image: "assets/textures/fabric_plaid.png"
+}
 header {
     display: flex;
     align-items: center;
@@ -16,7 +18,7 @@ img {
     background-color: darkgrey;
     height: 70px;
     text-align: center;
-    align-items: center;
+    
 }
 
 p {
