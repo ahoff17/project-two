@@ -16,8 +16,7 @@ img {
     background-color: darkgrey;
     height: 70px;
     text-align: center;
-    margin-top: 25px;
-
+    align-items: center;
 }
 
 p {
