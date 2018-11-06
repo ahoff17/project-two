@@ -1,5 +1,5 @@
 body {
-    background-image: "assets/textures/fabric_plaid.png"
+    background-image: url(https://github.com/ahoff17/web_1_project_2/blob/master/assets/textures/fabric_plaid.png?raw=true);
 }
 header {
     display: flex;
